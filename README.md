@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUMMERLm
-- 👀 I’m interested in etc
+- 👀 I’m interested in basketball etc
 - 🌱 I’m currently learning cloud native etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
